@@ -26,3 +26,5 @@ Run the tool with the following commands, passing IP as the first argument:
 ```
 sudo ./commview 192.168.1.1
 ```
+
+<small>Note: This is a joke</small>
