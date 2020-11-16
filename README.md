@@ -1,5 +1,5 @@
 
-# CommView
+# CommView Sniffer
 
 A DoS tool to attack networks with fancy DoS packets. 
 
@@ -9,7 +9,7 @@ You should only run this on networks you own or have permision to attack. Runnin
 
 ## Getting Started
 
-To run CommView, you would need a Unix based machine or Windows Subsystem on Linux. This is because it is written in the Shell language and "relies" on the library `ping`. 
+To run CommView Sniffer, you would need a Unix based machine or Windows Subsystem on Linux. This is because it is written in the "Shell language" and "relies" on the "library" `ping`. 
 
 Next, clone the repository:
 
